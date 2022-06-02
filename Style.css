@@ -36,3 +36,19 @@ a{
   margin: 20px auto 20px;
   display: block;
 }
+
+.body-abuelos {
+  width: 900px;
+  background-color: #efefef;
+  padding: 20px 20px 20px 20px;
+}
+
+.nav-abuelos {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #efefef;
+  padding: 20px 20px 20px 20px;
+  display: flex;
+  border: 5px solid black;
+  
+}
